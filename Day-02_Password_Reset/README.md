@@ -18,3 +18,12 @@ This lab focuses on resolving one of the most common IT support issues: user log
 - Administrative troubleshooting
 - User support workflows
 - Professional documentation
+
+---
+
+## Evidence
+
+![Password Reset](01_password_reset_user_bob.png)
+
+*Local user password reset performed using Computer Management.*
+
