@@ -7,4 +7,5 @@ Hands-on IT Support home lab simulating a small business environment
 - **Day 2:** Password Reset & Account Recovery
 - **Day 3:** Performance Troubleshooting (Slow PC)
 - **Day 4:** Disk Cleanup & Storage Troubleshooting
+- **Day 5:** Windows Update Troubleshooting
 
