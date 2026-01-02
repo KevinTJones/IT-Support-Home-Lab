@@ -8,4 +8,5 @@ Hands-on IT Support home lab simulating a small business environment
 - **Day 3:** Performance Troubleshooting (Slow PC)
 - **Day 4:** Disk Cleanup & Storage Troubleshooting
 - **Day 5:** Windows Update Troubleshooting
+- **Day 6:** Event Viewer Log Analysis
 
