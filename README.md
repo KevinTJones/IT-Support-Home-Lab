@@ -9,4 +9,5 @@ Hands-on IT Support home lab simulating a small business environment
 - **Day 4:** Disk Cleanup & Storage Troubleshooting
 - **Day 5:** Windows Update Troubleshooting
 - **Day 6:** Event Viewer Log Analysis
+- **Day 7:** Network Troubleshooting (Basic Connectivity)
 
