@@ -13,4 +13,5 @@ Hands-on IT Support home lab simulating a small business environment
 - **Day 8:** Device & Printer Troubleshooting
 - **Day 9:** Software Installation & Removal
 - **Day 10:** Basic Security Checks (Windows Defender & Firewall)
+- **Day 11:** User Account Permissions & UAC (Least Privilege)
 
