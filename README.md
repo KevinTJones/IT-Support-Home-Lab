@@ -11,4 +11,5 @@ Hands-on IT Support home lab simulating a small business environment
 - **Day 6:** Event Viewer Log Analysis
 - **Day 7:** Network Troubleshooting (Basic Connectivity)
 - **Day 8:** Device & Printer Troubleshooting
+- **Day 9:** Software Installation & Removal
 
