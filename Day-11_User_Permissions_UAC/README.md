@@ -28,8 +28,11 @@ This lab focuses on managing user permissions and enforcing the principle of lea
 
 ---
 
-### Evidence
+## Evidence
+
 Screenshots captured showing:
-- User account types
-- UAC elevation prompt
-- UAC configuration settings
+- User account types (Administrator vs standard users)
+- UAC elevation prompt demonstrating privilege escalation control
+
+*UAC configuration settings were reviewed but not separately captured.*
+
