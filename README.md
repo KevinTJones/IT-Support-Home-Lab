@@ -16,5 +16,7 @@ Hands-on IT Support home lab simulating a small business environment
 - **Day 11:** User Account Permissions & UAC (Least Privilege)
 - **Day 12:** NTFS File Permissions & Access Control (Least Privilege)
 - **Day 13:** Device Manager & Driver Troubleshooting
+- **Day 14:** Disk Management & Storage Troubleshooting
+
 
 
