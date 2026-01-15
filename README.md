@@ -15,5 +15,6 @@ Hands-on IT Support home lab simulating a small business environment
 - **Day 10:** Basic Security Checks (Windows Defender & Firewall)
 - **Day 11:** User Account Permissions & UAC (Least Privilege)
 - **Day 12:** NTFS File Permissions & Access Control (Least Privilege)
+- **Day 13:** Device Manager & Driver Troubleshooting
 
 
