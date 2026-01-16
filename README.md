@@ -21,6 +21,7 @@ Hands-on IT Support home lab simulating a small business environment
 - **Day 16:** Storage Usage & Cleanup Optimization
 - **Day 17:** User Profile Troubleshooting
 - **Day 18:** System Information & Hardware Inventory
+- **Day 19:** Reliability Monitor & System Stability Analysis
 
 
 
