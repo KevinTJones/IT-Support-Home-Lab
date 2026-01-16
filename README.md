@@ -18,6 +18,7 @@ Hands-on IT Support home lab simulating a small business environment
 - **Day 13:** Device Manager & Driver Troubleshooting
 - **Day 14:** Disk Management & Storage Troubleshooting
 - **Day 15:** Windows Services Troubleshooting
+- **Day 16:** Storage Usage & Cleanup Optimization
 
 
 
