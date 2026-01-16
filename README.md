@@ -20,6 +20,8 @@ Hands-on IT Support home lab simulating a small business environment
 - **Day 15:** Windows Services Troubleshooting
 - **Day 16:** Storage Usage & Cleanup Optimization
 - **Day 17:** User Profile Troubleshooting
-  
+- **Day 18:** System Information & Hardware Inventory
+
+
 
 
