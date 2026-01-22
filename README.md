@@ -27,6 +27,7 @@ Hands-on IT Support home lab simulating a small business environment
 - **Day 22:** Task Scheduler & Automated Maintenance
 - **Day 23:** System Startup & Boot Troubleshooting
 - **Day 24:** Windows Update Management
+- **Day 25:** System Restore & Recovery
 
 
 
