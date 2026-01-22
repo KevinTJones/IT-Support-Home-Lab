@@ -24,6 +24,7 @@ Hands-on IT Support home lab simulating a small business environment
 - **Day 19:** Reliability Monitor & System Stability Analysis
 - **Day 20:** Windows Firewall Inbound Rules (DHCP)
 - **Day 21:** Local User Profile Troubleshooting
+- **Day 22:** Task Scheduler & Automated Maintenance
 
 
 
