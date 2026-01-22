@@ -28,6 +28,7 @@ Hands-on IT Support home lab simulating a small business environment
 - **Day 23:** System Startup & Boot Troubleshooting
 - **Day 24:** Windows Update Management
 - **Day 25:** System Restore & Recovery
+- **Day 26:** Backup & Recovery (Windows Backup / OneDrive)
 
 
 
