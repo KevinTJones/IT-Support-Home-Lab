@@ -31,6 +31,7 @@ Hands-on IT Support home lab simulating a small business environment
 - **Day 26:** Backup & Recovery (Windows Backup / OneDrive)
 - **Day 27:** Disk Management & Volume Configuration
 - **Day 28:** Windows Services & Troubleshooting
+- **Day 29:** Windows Defender & Malware Protection
 
 
 
