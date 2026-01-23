@@ -32,6 +32,7 @@ Hands-on IT Support home lab simulating a small business environment
 - **Day 27:** Disk Management & Volume Configuration
 - **Day 28:** Windows Services & Troubleshooting
 - **Day 29:** Windows Defender & Malware Protection
+- **Day 30:** IT Support Capstone & Portfolio Review
 
 
 
